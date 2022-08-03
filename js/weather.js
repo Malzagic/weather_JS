@@ -1,6 +1,7 @@
 class Weather {
   constructor(city) {
     this.city = city;
+    // paste api_key code
     this.API_key = '';
     this.part = 'daily';
     this.units = 'metric'
