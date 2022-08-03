@@ -17,7 +17,7 @@ to use it you need to registrate and get "api_key" and paste it to this.API_key 
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - Bootstrap
 - JavaScript ES6 for functionality
 
