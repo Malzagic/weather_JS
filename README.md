@@ -27,7 +27,7 @@ I learned more about using async and await to fetch data form remote API.
 
 To see how you can add code snippets, see below:
 
-Better know of pseudo classes:
+Better know of:
 ```js
 async, await
 ```
