@@ -1,6 +1,6 @@
 # Frontend Mentor - Expenses chart component solution
 
-This is weather app used api from ![openweathermap.org](https://openweathermap.org/api)
+This is weather app used api from [openweathermap.org](https://openweathermap.org)
 
 to use it you need to registrate and get "api_key" and paste it to this.API_key in weather.js file
 
