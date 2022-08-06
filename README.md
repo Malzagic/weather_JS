@@ -1,4 +1,4 @@
-# Frontend Mentor - Expenses chart component solution
+# Weather_JS
 
 This is weather app used api from [openweathermap.org](https://openweathermap.org)
 
